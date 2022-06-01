@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nutella
+* source:	https://sketchfab.com/3d-models/nutella-a17f662734b74a0a8b8006db49f5a3ae
+* author:	digi_professor (https://sketchfab.com/willey)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nutella" (https://sketchfab.com/3d-models/nutella-a17f662734b74a0a8b8006db49f5a3ae) by digi_professor (https://sketchfab.com/willey) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
